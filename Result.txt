@@ -1,0 +1,22 @@
+------------------------------------------------------
+                Rock Paper Scissors
+------------------------------------------------------
+Turn 1.
+You Choice 'Rock' and Computer Choice 'Rock'
+------------------------------------------------------
+Turn 2.
+You Choice 'Paper' and Computer Choice 'Scissors'
+------------------------------------------------------
+Turn 3.
+You Choice 'Paper' and Computer Choice 'Scissors'
+------------------------------------------------------
+Turn 4.
+You Choice 'Rock' and Computer Choice 'Rock'
+------------------------------------------------------
+Turn 5.
+You Choice 'Rock' and Computer Choice 'Scissors'
+------------------------------------------------------
+You Won: 1 times
+You Lose: 2 times
+You Tie: 2 times
+-------------------------------------------------------
